@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/daedi/AndroidStudioProjects/PizzaChickenStore3/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/daedi/AndroidStudioProjects/PizzaChickenStore3/app/src/main/res/layout/activity_view_Store_item.xml" value="0.34444444444444444" />
+        <entry key="..\:/Users/daedi/AndroidStudioProjects/PizzaChickenStore3/app/src/main/res/layout/activity_view_store_detail.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/daedi/AndroidStudioProjects/PizzaChickenStore3/app/src/main/res/layout/chicken_store_list_item.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/daedi/AndroidStudioProjects/PizzaChickenStore3/app/src/main/res/layout/fragment_chicken_store_list_item.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/daedi/AndroidStudioProjects/PizzaChickenStore3/app/src/main/res/layout/fragment_pizza_store_list_item.xml" value="0.36614583333333334" />
